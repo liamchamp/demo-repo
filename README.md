@@ -1,2 +1,3 @@
 # demo-repo
-freecodecamp practise 
+freecodecamp practice
+some description
